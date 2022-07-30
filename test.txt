@@ -1,4 +1,5 @@
 apple
+mergeConflict
 ice
 coffee
 bla bla bla

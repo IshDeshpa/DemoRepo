@@ -1,4 +1,4 @@
-banana
+mergeConflict
 ice
 coffee
 bla bla bla
